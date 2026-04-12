@@ -34,8 +34,8 @@ const stack = {
 
 ### Background
 
-- 🎓 MSc Applied Computer Science — Fairleigh Dickinson University, Vancouver · GPA 3.85
-- 💼 Currently at **Morpich Design** — building SaaS products and leading production releases
+- 🎓 MS in Applied Computer Science — Fairleigh Dickinson University, Vancouver · GPA 3.85
+- 💼 Currently at **Morpich Design** — working on SaaS products 
 - 🏛️ Previously at **Casepoint** (legal tech) and **Coderthemes** (commercial UI products)
 - ♿ Strong focus on accessibility — WCAG 2.1 and 508 compliance experience
 
