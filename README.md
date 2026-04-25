@@ -12,7 +12,7 @@ I work across the entire stack, from building React interfaces that people enjoy
 const stack = {
   frontend : ["React", "Next.js", "TypeScript", "JavaScript (ES6+)", "Redux", "HTML5", "CSS3"],
   backend  : ["Node.js", "Express.js", "REST APIs", "Java", "Spring Boot"],
-  data     : ["PostgreSQL", "MySQL", "Redis", "Couchbase", "Elastic Stack"],
+  data     : ["MySQL", "Redis", "Couchbase", "Elastic Stack"],
   devops   : ["Docker", "GCP", "Azure", "Jenkins", "Spinnaker", "Git"],
   testing  : ["Jest", "Lighthouse", "Accessibility (WCAG / 508)"],
 }
