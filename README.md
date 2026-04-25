@@ -1,8 +1,8 @@
 # Hi, I'm Anita  👋
 
-Software engineer based in **Vancouver, BC** — currently employed and open to the right opportunities.
+Software engineer based in **Vancouver, BC**, open to the right opportunities.
 
-I work across the entire stack, from building React interfaces that people enjoy using to designing Node.js backends that hold up under load. I've shipped commercial products with thousands of users, built enterprise software for legal tech, and led product builds from architecture through deployment.
+I work across the entire stack, from building React interfaces that people enjoy using to designing Node.js backends that hold up under load. I have shipped commercial products with thousands of users, built enterprise software for legal tech, and led product builds from architecture through deployment.
 
 ---
 
@@ -51,9 +51,9 @@ const stack = {
 
 ### Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/anita-mavani)
+- 💼 [LinkedIn](https://linkedin.com/in/anita-develop)
 - 📬 https://anitam-portfolio.netlify.app
-- 📍 Vancouver, BC — open to remote
+- 📍 Vancouver, BC 
 
 ---
 
