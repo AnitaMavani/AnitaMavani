@@ -51,7 +51,7 @@ const stack = {
 
 ### Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/anita-develop)
+- 💼 [LinkedIn](https://linkedin.com/in/anita-mavani)
 - 📬 https://anitam-portfolio.netlify.app
 - 📍 Vancouver, BC 
 
